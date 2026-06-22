@@ -1,30 +1,38 @@
-# Yug Jain — Portfolio
+# 🚀 The Developer's Desk
 
-## Getting Started
+A premium and responsive developer portfolio website built with React, featuring smooth animations, project showcases, skills, experience timeline, services, and a contact section.
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Run locally:
-   ```bash
-   npm start
-   ```
+- Responsive Design
+- Animated Hero Section
+- Typing Effect
+- Project Showcase
+- Skills Section
+- Experience Timeline
+- Services Section
+- Contact Form Validation
+- Scroll Progress Bar
+- Back-to-Top Button
 
-3. Build for production:
-   ```bash
-   npm run build
-   ```
+## 🛠️ Tech Stack
 
-## Structure
-```
-portfolio-project/
-├── public/
-│   └── index.html
-├── src/
-│   ├── App.jsx       ← Main portfolio component
-│   └── index.js      ← React entry point
-├── package.json
-└── README.md
-```
+- React.js
+- JavaScript
+- HTML5
+- CSS
+
+## 📂 Sections
+
+- Hero
+- About
+- Projects
+- Experience
+- Services
+- Contact
+
+## 🚀 Run Locally
+
+```bash
+npm install
+npm start
